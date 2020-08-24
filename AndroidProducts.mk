@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_violet.mk
+    $(LOCAL_DIR)/freaky_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_violet-userdebug \
-    aosp_violet-eng \
-    aosp_violet-user
+    freaky_violet-userdebug \
+    freaky_violet-eng \
+    freaky_violet-user

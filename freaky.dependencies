@@ -1,0 +1,43 @@
+[
+  {
+    "repository"  : "device_xiaomi_sm6150-common",
+    "target_path" : "device/xiaomi/sm6150-common",
+    "branch"      : "still_alive"
+  },
+  {
+    "remote":"gitlab",
+    "repository":"princejb786/vendor_xiaomi",
+    "target_path":"vendor/xiaomi",
+    "branch":"ten"
+  },
+  {
+    "remote":"github",
+    "repository":"tesla59/hydra_kernel",
+    "target_path":"kernel/xiaomi/sm6150",
+    "branch":"ten"
+  },
+  {
+    "remote":"github",
+    "repository":"LineageOS/android_hardware_xiaomi",
+    "target_path":"hardware/xiaomi",
+    "branch":"lineage-17.1"
+  },
+  {
+    "remote":"github",
+    "repository":"LineageOS/android_hardware_qcom_display"
+    "target_path":"hardware/qcom-caf/sm8150/display"
+    "branch":"lineage-17.1-caf-sm8150"
+  },
+  {
+    "remote":"github",
+    "repository":"LineageOS/android_hardware_qcom_audio"
+    "target_path":"hardware/qcom-caf/sm8150/audio"
+    "branch":"lineage-17.1-caf-sm8150"
+  },
+  {
+    "remote":"github",
+    "repository":"LineageOS/android_hardware_qcom_media"
+    "target_path":"hardware/qcom-caf/sm8150/media"
+    "branch":"lineage-17.1-caf-sm8150"
+  }
+]
